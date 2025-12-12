@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g>
+    <ellipse cx="30" cy="24" rx="18" ry="9" fill="#DDEEF9"/>
+    <polygon points="30,30 24,44 34,44 28,58 44,36 34,36" fill="#F7D76C"/>
+  </g>
+</svg>

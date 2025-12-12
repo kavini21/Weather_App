@@ -1,0 +1,34 @@
+{
+  "List": [
+    {
+      "CityCode": "1251081",
+      "CityName": "Anuradhapura",
+      "Temp": "30.31",
+      "Status": "Clear"
+    },
+    {
+      "CityCode": "1235846",
+      "CityName": "Matara",
+      "Temp": "29.48",
+      "Status": "Clouds"
+    },
+    {
+      "CityCode": "1228730",
+      "CityName": "Rathnapura",
+      "Temp": "31.6",
+      "Status": "Clouds"
+    },
+    {
+      "CityCode": "1227603",
+      "CityName": "Sri Lanka",
+      "Temp": "26.13",
+      "Status": "Clouds"
+    },
+    {
+      "CityCode": "1242833",
+      "CityName": "Jaffna",
+      "Temp": "27.16",
+      "Status": "Clouds"
+    }
+  ]
+}
